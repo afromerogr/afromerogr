@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrés Romero @afromerogr
-- 👀 I’m interested in data science, machine learning, full stack development, applied geophysics, seismsology and scientific computing
+- 👀 I’m interested in data science, machine learning, full stack development, applied geophysics and scientific computing
 - 🌱 I’m currently learning Data Science, Machine Learning, Full Stack Development, Artificial Intelligence, Computer Science
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning, Full Stack Developmente, Artificial Intelligence and Computer Science
 - 📫 How to reach me email me at afromerogr@unal.edu.co
