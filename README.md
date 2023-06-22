@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrés Romero @afromerogr
-- 👀 I’m interested in data science, machine learning, deep learning, artificial intelligence and computer science
+- 👀 I’m interested in Data Science, Machine Learning, Deep learning, Artificial Intelligence and Computer Science
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning, Deep Learning, Artificial Intelligence and Computer Science
 - 📫 How to reach me email me at afromerogr@unal.edu.co
