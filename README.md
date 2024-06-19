@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrés Romero @afromerogr
+- 👋 Hi, I’m Andrés Romero @afromerogr Data Scientist, AI Developer and Geologist
 - 👀 I’m interested in Data Science, Machine Learning, Deep learning, Artificial Intelligence and Computer Science
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning, Deep Learning, Artificial Intelligence and Computer Science
